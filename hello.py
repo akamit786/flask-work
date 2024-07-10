@@ -17,8 +17,8 @@ def hello():
     <section style="background-color: #f2f2f2; padding: 50px;">
         <h1>Welcome to My Flask App</h1>
         <p>This is the hero section of the page.</p>
-        <p>Change the name in the <em>browser address bar</em> and reload the page.</p>
-        <p><a href="/form">Go to Form</a></p>
+        <p>Change the name in the <em >browser address bar</em> and reload the page.</p>
+        <p><a href="/form">Go to Form d</a></p>
     </section>
     <h1>Hello, {name}!</h1>
     '''
